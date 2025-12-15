@@ -1,2 +1,2 @@
-# AIProj
-AI project thing
+# Car Stock Prices Prediction
+## Overview
